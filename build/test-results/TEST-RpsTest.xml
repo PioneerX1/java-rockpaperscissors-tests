@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RpsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-28T17:39:44" hostname="epicodus-8.local" time="0.001">
+<testsuite name="RpsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-06-28T18:20:42" hostname="epicodus-8.local" time="0.002">
   <properties/>
-  <testcase name="validateUserInput_TestsForRps_True" classname="RpsTest" time="0.001"/>
+  <testcase name="calculateWinner_TestsForPlayersTie_Tie" classname="RpsTest" time="0.001"/>
+  <testcase name="calculateWinner_TestForPlayersScissorsVSPaper_Player_1_wins" classname="RpsTest" time="0.0"/>
+  <testcase name="calculateWinner_TestForPlayersScissorsVSPaper_Player_2_wins" classname="RpsTest" time="0.0"/>
+  <testcase name="calculateWinner_TestForPlayersRockVScissors_Player_1_wins" classname="RpsTest" time="0.0"/>
+  <testcase name="calculateWinner_TestForPlayersRockVScissors_Player_2_wins" classname="RpsTest" time="0.0"/>
+  <testcase name="calculateWinner_TestForPlayersPaperVSROCK_Player_1_wins" classname="RpsTest" time="0.0"/>
+  <testcase name="calculateWinner_TestForPlayersPaperVSROCK_Player_2_wins" classname="RpsTest" time="0.0"/>
+  <testcase name="validateUserInput_TestsForPlayerTwoInput_True" classname="RpsTest" time="0.0"/>
+  <testcase name="validateUserInput_TestsForPlayerOneInput_True" classname="RpsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
